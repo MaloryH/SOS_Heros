@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.font_noir{
+    background-color: rgba(0, 0, 0, 0.6);
+  }
+
+  .arriere_plan{
+    background-image: url(/images/arriere_plan_comment_ca_marche.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: top center;
+    height: 100vh;
+  }
+
+  .police_Marvel{
+    color:#FFFFFF;
+    font-family: Marvel,italic;
+  }
