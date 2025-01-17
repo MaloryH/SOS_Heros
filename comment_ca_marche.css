@@ -4,8 +4,13 @@
 }
 
 .font_noir{
-    background-color: rgba(0, 0, 0, 0.6);
+    background-color: rgba(0, 0, 0, 0.8);
   }
+
+.theme{
+    font-family: Marvel,italic;
+    font-size: 30px;
+}
 
   .arriere_plan{
     background-image: url(/images/arriere_plan_comment_ca_marche.jpg);
